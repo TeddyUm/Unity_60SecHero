@@ -1,9 +1,9 @@
 # Unity_60SecHero
 Inspired by 30sec hero game.
 
-Main Programmer - Teddy
-Battle scene - Jun
-Art - Teddy
+Main Programmer - Teddy<br>
+Battle scene - Jun<br>
+Art - Teddy<br><br>
 
 Genre: FPS<br>
 
