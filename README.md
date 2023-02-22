@@ -3,7 +3,7 @@ Inspired by 30sec hero game.
 
 Main Programmer - Teddy<br>
 Battle scene - Jun<br>
-Art - Teddy<br><br>
+Art - Teddy<br>
 
 Genre: FPS<br>
 
