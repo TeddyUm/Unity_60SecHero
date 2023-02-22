@@ -5,7 +5,7 @@ Main Programmer - Teddy<br>
 Battle scene - Jun<br>
 Art - Teddy<br>
 
-Genre: FPS<br>
+Genre: RPG<br>
 
 <h4>Function</h4>
 - 2D grid system<br>
